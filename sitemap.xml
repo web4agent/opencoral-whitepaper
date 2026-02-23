@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/deploy/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/deploy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/deploy/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/gameplay/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/gameplay/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/gameplay/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/roadmap/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/roadmap/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/technology/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/technology/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/technology/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/tokenomics/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/tokenomics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/tokenomics/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/zh/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/zh/deploy/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/deploy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/deploy/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/zh/gameplay/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/gameplay/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/gameplay/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/zh/roadmap/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/roadmap/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/zh/technology/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/technology/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/technology/"/>
+    </url>
+    <url>
+        <loc>https://web4agent.github.io/opencoral-whitepaper/zh/tokenomics/</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://web4agent.github.io/opencoral-whitepaper/zh/tokenomics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://web4agent.github.io/opencoral-whitepaper/tokenomics/"/>
+    </url>
+</urlset>
